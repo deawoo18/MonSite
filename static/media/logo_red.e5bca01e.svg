@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120.1992mm"
+   height="129.27092mm"
+   viewBox="0 0 120.1992 129.27092"
+   version="1.1"
+   id="svg36692"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="logo_red.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview36694"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="99.878909"
+     inkscape:cy="559.76911"
+     inkscape:window-width="1323"
+     inkscape:window-height="997"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g36702"
+     inkscape:lockguides="true"
+     width="209mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs36689">
+    <rect
+       x="226.59096"
+       y="193.79491"
+       width="314.54404"
+       height="114.78621"
+       id="rect20227" />
+    <rect
+       x="216.15585"
+       y="345.84937"
+       width="324.97913"
+       height="177.39687"
+       id="rect21421" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.64142791,-0.4442206)">
+    <g
+       id="g36702"
+       transform="translate(129.69388,-50.978589)"
+       style="display:inline;fill:#ff0000">
+      <rect
+         style="fill:#ff0000;fill-opacity:0;fill-rule:evenodd;stroke:#ee1010;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:0.94509804;paint-order:stroke fill markers"
+         id="rect2958"
+         width="113.1992"
+         height="122.27092"
+         x="-125.55245"
+         y="54.92281" />
+      <text
+         xml:space="preserve"
+         transform="matrix(1.2327864,0,0,1.9420446,-397.23241,-325.41383)"
+         id="text20225"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect20227);fill:#ee1010;fill-opacity:0.94509804;stroke:none"><tspan
+           x="226.5918"
+           y="229.8251"
+           id="tspan2741">NET</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.51496939,-0.00432082,0.00469727,0.4736969,-232.83898,-51.114353)"
+         id="text21419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect21421);fill:#ee1010;fill-opacity:0.94509804;stroke:none"
+         inkscape:transform-center-x="23.357638"
+         inkscape:transform-center-y="-15.039942"><tspan
+           x="216.15625"
+           y="465.94989"
+           id="tspan2743">dra</tspan></text>
+    </g>
+  </g>
+</svg>
